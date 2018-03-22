@@ -71,9 +71,9 @@ function placeOrder(cardNumber) {
 
 
 cart = [ 
-  { itemName:"pancake batter",itemPrice: 5 },         
-  { itemName:"bananas", itemPrice: 17 }, 
-  { itemName:"eggs", itemPrice: 49 }
+  { "pancake batter": 5 },         
+  { "bananas": 17 }, 
+  { "eggs" 49 }
   ]
 
 
