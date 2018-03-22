@@ -70,11 +70,7 @@ function placeOrder(cardNumber) {
 }
 
 
-cart = [ 
-  { "pancake batter": 5 },         
-  { "bananas": 17 }, 
-  { "eggs" 49 }
-  ]
+cart = [{ "pancake batter": 5 },{ "bananas": 17 },{ "eggs" 49 }]
 
 
 
